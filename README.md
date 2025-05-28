@@ -20,7 +20,7 @@ Food waste is a global issue with major environmental and economic consequences.
 ## 📸 Demo
 
 <!-- Add GIF or image here -->
-![Food Waste Detection Demo](demo.gif) <!-- Optional: Add your own image link -->
+![Food Waste Detection Demo](food_identify.jpg) <!-- Optional: Add your own image link -->
 
 ---
 
